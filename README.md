@@ -1,2 +1,2 @@
 # CatpusTalk
-Calendar messenger for college life
+Schedule management messenger project for college life in software engineering class
