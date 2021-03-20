@@ -1,0 +1,32 @@
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.exe.config
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.exe
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.pdb
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\MySql.Data.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Google.Protobuf.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Renci.SshNet.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\MySql.Data.xml
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.ChatServer.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.HomeServer.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.Properties.Resources.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csproj.GenerateResource.cache
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csproj.CoreCompileInputs.cache
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csproj.CopyComplete
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.exe
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.pdb
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.exe.config
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.exe
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Functionality_Messenger_Server.pdb
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\MySql.Data.dll
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Google.Protobuf.dll
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\Renci.SshNet.dll
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Debug\MySql.Data.xml
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csprojAssemblyReference.cache
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.ChatServer.resources
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.HomeServer.resources
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.Properties.Resources.resources
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csproj.GenerateResource.cache
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.csproj.CopyComplete
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.exe
+C:\Users\chl40\Desktop\cuk\3학년 2학기\소프트웨어공학\코딩파일\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Debug\Functionality_Messenger_Server.pdb
